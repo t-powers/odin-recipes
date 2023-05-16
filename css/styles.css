@@ -1,9 +1,20 @@
-h1 {color:blueviolet;font-size: 40px;}
+h1 {
+  color: blueviolet;
+  font-size: 40px;
+}
 
-h2 {font-size: 28px;}
+h2 {
+  font-size: 28px;
+}
 
-p {font-size: 22px;}
+p {
+  font-size: 22px;
+}
 
-li {font-size: 20px;}
+li {
+  font-size: 20px;
+}
 
-body {background-color: bisque;}
+body {
+  background-color: bisque;
+}

@@ -1,5 +1,5 @@
 h1 {
-  color: blueviolet;
+  color: rgb(95, 33, 154);
   font-size: 40px;
 }
 
@@ -16,7 +16,7 @@ li {
 }
 
 body {
-  background-color: bisque;
+  background-color: rgb(251, 243, 233);
 }
 img {
   width: 400px;

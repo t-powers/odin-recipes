@@ -7,12 +7,9 @@ h2 {
   font-size: 28px;
 }
 
-p {
-  font-size: 22px;
-}
-
+p,
 li {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 body {

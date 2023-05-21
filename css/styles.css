@@ -18,10 +18,3 @@ img {
   width: 400px;
   height: auto;
 }
-.bigbutton {
-  height: 50px;
-  width: 200px;
-  font-size: 25px;
-  background-color: rgb(141, 10, 10);
-  color: white;
-}

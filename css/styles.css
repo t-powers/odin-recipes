@@ -5,10 +5,11 @@ h2 {
   text-align: center;
   margin: 0;
   padding: 20 px 0;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 2px 2px 1px black;
 }
 
-p {
+p,
+ol {
   font-size: 20px;
   line-height: 2;
   letter-spacing: 1px;

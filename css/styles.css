@@ -28,17 +28,14 @@ img {
   padding: 8%;
 }
 button {
-  background-color: rgb(253, 255, 240);
-  color: aliceblue;
   font-size: 25px;
-  margin-bottom: 20px;
   text-align: center;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: rgb(251, 253, 235);
+  background-color: rgb(251, 252, 245);
   padding: 0 20px 20px 20px;
   border: 1px solid rgb(240, 240, 240);
 }
@@ -46,4 +43,12 @@ body {
 .homepage-list {
   text-align: center;
   list-style-position: inside;
+}
+a {
+  color: red;
+  text-decoration: none;
+  transition: color 1s;
+}
+a:hover {
+  color: rgb(143, 19, 231);
 }

@@ -8,7 +8,12 @@ h2 {
   text-shadow: 2px 2px 1px black;
 }
 
-p,
+p {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
 ol {
   font-size: 20px;
   line-height: 2;
@@ -20,18 +25,25 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
+  padding: 8%;
 }
 button {
-  background-color: rgb(250, 247, 247);
-  color: rgb(132, 72, 72);
+  background-color: rgb(253, 255, 240);
+  color: aliceblue;
   font-size: 25px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: bisque;
+  background-color: rgb(251, 253, 235);
   padding: 0 20px 20px 20px;
-  border: 1px solid rgb(221, 221, 221);
+  border: 1px solid rgb(240, 240, 240);
+}
+
+.homepage-list {
+  text-align: center;
+  list-style-position: inside;
 }

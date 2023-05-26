@@ -5,7 +5,7 @@ h2 {
   text-align: center;
   margin: 0;
   padding: 20 px 0;
-  text-shadow: 2px 2px 1px black;
+  text-shadow: 1px 1px 1px rgb(245, 234, 82);
 }
 
 p {
@@ -51,4 +51,7 @@ a {
 }
 a:hover {
   color: rgb(143, 19, 231);
+}
+.homepage-h2 {
+  font-size: 1.5rem;
 }

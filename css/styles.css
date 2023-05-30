@@ -44,13 +44,19 @@ body {
   text-align: center;
   list-style-position: inside;
 }
+.home-link {
+  font-size: 1.3em;
+  background-color: black;
+  color: white;
+  margin-bottom: 0 auto;
+}
 a {
   color: red;
   text-decoration: none;
   transition: color 1s;
 }
 a:hover {
-  color: rgb(143, 19, 231);
+  color: rgb(163, 55, 239);
 }
 .homepage-h2 {
   font-size: 1.5em;

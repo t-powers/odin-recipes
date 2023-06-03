@@ -39,9 +39,12 @@ img {
   margin: 0 auto;
   padding: 5%;
 }
-button {
-  font-size: 25px;
+.wrapper {
   text-align: center;
+}
+.button {
+  font-size: 25px;
+  top: 50%;
 }
 
 body {
@@ -63,7 +66,7 @@ body {
   margin-bottom: 0 auto;
 }
 a {
-  color: red;
+  color: rgb(139, 103, 13);
   text-decoration: none;
   transition: color 1s;
 }

@@ -1,5 +1,5 @@
-* {
-  margin: 30px 10px 10px 20px;
+main {
+  width: min(65ch, 100% - 4 rem; margin-inline: auto;);
 }
 
 body {

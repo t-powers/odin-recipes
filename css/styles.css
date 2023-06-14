@@ -73,8 +73,8 @@ a {
   text-decoration: none;
   transition: color 1s;
 }
-a:hover {
-  color: rgb(163, 55, 239);
+a {
+  background-color: aqua;
 }
 .homepage-h2 {
   font-size: 1.5em;

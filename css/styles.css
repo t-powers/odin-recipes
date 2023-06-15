@@ -37,9 +37,18 @@ img {
 .wrapper {
   text-align: center;
 }
+a {
+  text-decoration: none;
+}
 .button {
   font-size: 25px;
-  top: 50%;
+  margin: 10px auto;
+  padding: 5px auto;
+  transition: 1.3s;
+  background-color: rgb(251, 251, 182);
+}
+.button:hover {
+  background-color: rgb(72, 52, 72);
 }
 
 body {
@@ -60,14 +69,7 @@ body {
   color: rgb(0, 0, 0);
   padding: 7px;
 }
-a {
-  color: rgb(139, 103, 13);
-  text-decoration: none;
-  transition: color 1s;
-}
-a {
-  background-color: aqua;
-}
+
 .homepage-h2 {
   font-size: 1.5em;
 }

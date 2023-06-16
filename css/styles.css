@@ -1,3 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 * {
   border: 3px solid red;
 }
@@ -23,7 +32,7 @@ h1 {
   color: rgb(95, 33, 154);
   font-size: 45px;
   text-align: center;
-  margin: 10;
+  margin: 5px;
   padding: 10px auto;
   text-shadow: 1px 1px 1px rgb(245, 234, 82);
 }
@@ -56,10 +65,11 @@ a {
   text-decoration: none;
 }
 .button {
-  font-size: 25px;
+  font-size: 24px;
   padding: 5px auto;
   transition: 1.3s;
   background-color: rgb(251, 251, 182);
+  display: inline-flex;
 }
 .button:hover {
   background-color: rgb(255, 145, 255);

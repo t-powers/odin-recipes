@@ -70,7 +70,7 @@ a {
   display: inline-flex;
 }
 .button:hover {
-  background-color: rgb(133, 89, 133);
+  background-color: rgb(91, 27, 91);
   font-size: 25px;
   color: rgb(130, 34, 34);
 }

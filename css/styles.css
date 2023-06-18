@@ -29,7 +29,7 @@ h1 {
   color: rgb(95, 33, 154);
   font-size: 45px;
   text-align: center;
-  margin: 5px;
+  margin: 1.5px;
   padding: 10px auto;
   text-shadow: 1px 1px 1px rgb(245, 234, 82);
 }
@@ -37,7 +37,7 @@ h2 {
   color: rgb(95, 33, 154);
   font-size: 30px;
   text-align: center;
-  margin: 0;
+  margin: 1em;
   padding: 20 px 0;
   text-shadow: 1px 1px 1px rgb(245, 234, 82);
 }
@@ -66,11 +66,10 @@ a {
   font-size: 24px;
   padding: 5px auto;
   transition: 1.3s;
-  background-color: rgb(249, 240, 248);
+  background-color: rgb(149, 222, 251);
   display: inline-flex;
 }
 .button:hover {
-  background-color: rgb(91, 27, 91);
+  background-color: rgb(241, 234, 241);
   font-size: 25px;
-  color: rgb(130, 34, 34);
 }

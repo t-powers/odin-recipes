@@ -7,9 +7,6 @@ html {
   box-sizing: inherit;
 }
 
-* {
-  border: 3px solid red;
-}
 div {
   margin: 30px auto;
 }
@@ -63,14 +60,17 @@ img {
 
 a {
   text-decoration: none;
+  color: rgb(78, 120, 15);
 }
 .button {
   font-size: 24px;
   padding: 5px auto;
   transition: 1.3s;
-  background-color: rgb(251, 251, 182);
+  background-color: rgb(249, 240, 248);
   display: inline-flex;
 }
 .button:hover {
-  background-color: rgb(255, 145, 255);
+  background-color: rgb(133, 89, 133);
+  font-size: 25px;
+  color: rgb(130, 34, 34);
 }

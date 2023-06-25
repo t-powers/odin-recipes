@@ -2,9 +2,9 @@
 *::before,
 *::after {
   box-sizing: inherit;
+  border: 2px solid red;
 }
 
 .container {
   display: flex;
-  border: 2px solid red;
 }

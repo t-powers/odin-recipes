@@ -1,69 +1,10 @@
 html {
   border: 2px solid red;
+  display: flex;
 }
 
 *,
 *::before,
 *::after {
   box-sizing: inherit;
-}
-
-div {
-  border: 2px solid red;
-}
-.home-link {
-  font-size: 1.3em;
-  border: 1px solid black;
-  color: rgb(0, 0, 0);
-  padding: 7px;
-  display: flex;
-  margin: 10px;
-}
-body {
-  width: 600px;
-  margin: 10px auto;
-  background-color: rgb(251, 252, 245);
-  padding: 0 20px 20px 20px;
-  border: 1px solid rgb(240, 240, 240);
-}
-h1 {
-  color: rgb(95, 33, 154);
-  font-size: 45px;
-  text-align: center;
-  padding: 10px auto;
-  text-shadow: 1px 1px 1px rgb(245, 234, 82);
-}
-h2 {
-  color: rgb(95, 33, 154);
-  font-size: 30px;
-  text-align: center;
-  padding: 20 px 0;
-  text-shadow: 1px 1px 1px rgb(245, 234, 82);
-}
-
-ol,
-ul,
-p {
-  font-size: 20px;
-  line-height: 2;
-  letter-spacing: 1px;
-}
-
-img {
-  max-width: 75%;
-  height: auto;
-  display: block;
-  padding: 5%;
-}
-
-.button a {
-  text-decoration: none;
-  color: rgb(40, 59, 11);
-  font-size: 22px;
-  display: flex;
-  flex-direction: row;
-}
-
-.button:hover {
-  background-color: rgb(241, 234, 241);
 }

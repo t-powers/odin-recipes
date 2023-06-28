@@ -10,13 +10,11 @@ body {
   min-height: 200vh;
 }
 
-.container {
+a p,
+h1,
+h2,
+img {
   display: flex;
-  flex-direction: column;
-}
-
-.btn-container a {
-  display: flex;
-  justify-content: space-between;
-  font-size: 26px;
+  text-decoration: none;
+  justify-content: center;
 }

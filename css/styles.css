@@ -1,15 +1,14 @@
-*,
+/* *,
 *::before,
 *::after {
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
-}
+} */
 body {
   min-height: 200vh;
 }
-
 a p,
 h1,
 h2,
@@ -17,4 +16,5 @@ img {
   display: flex;
   text-decoration: none;
   justify-content: center;
+  border: 1px solid red;
 }

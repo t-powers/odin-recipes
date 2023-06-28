@@ -9,12 +9,17 @@
 body {
   min-height: 200vh;
 }
-a p,
-h1,
-h2,
+a {
+  text-decoration: none;
+  font-size: 18px;
+}
+.btn-container {
+  border: 1px solid rebeccapurple;
+  display: flex;
+  justify-content: space-around;
+}
 img {
   display: flex;
-  text-decoration: none;
   justify-content: center;
   border: 1px solid red;
 }

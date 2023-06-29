@@ -27,8 +27,8 @@ a {
   color: #dcdcdd;
 }
 img {
-  width: 300px;
-  height: 400px;
+  width: 500px;
+  height: auto;
 }
 .img-container {
   border: 1px solid rebeccapurple;

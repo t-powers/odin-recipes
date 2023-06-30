@@ -5,7 +5,8 @@ body {
 h1 {
   display: flex;
   justify-content: center;
-  font-size: 32px;
+  font-size: 38px;
+  text-shadow: 1px 1px black;
   color: #c5c3c6;
   background-color: #1985a1;
 }
@@ -13,6 +14,7 @@ h2 {
   display: flex;
   justify-content: center;
   font-size: 26px;
+  text-shadow: 1px 1px rgb(252, 170, 170);
   color: #1985a1;
 }
 p {
@@ -44,11 +46,11 @@ img {
 }
 
 .button {
-  background-color: #1985a1;
+  background-color: #8ce6fc;
   transition: 0.4s;
 }
 .button:hover {
-  background-color: #a13519;
+  background-color: #2b26b2;
   border: #1985a1;
 }
 a:hover {

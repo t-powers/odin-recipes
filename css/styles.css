@@ -24,7 +24,7 @@ a {
   text-decoration: none;
   font-size: 24px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #dcdcdd;
+  color: #000000;
 }
 img {
   width: 500px;
@@ -45,4 +45,12 @@ img {
 
 .button {
   background-color: #1985a1;
+  transition: 0.4s;
+}
+.button:hover {
+  background-color: #a13519;
+  border: #1985a1;
+}
+a:hover {
+  color: rgb(255, 255, 255);
 }

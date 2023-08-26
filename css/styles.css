@@ -69,3 +69,8 @@ img {
 a:hover {
   color: rgb(255, 255, 255);
 }
+.homepage-h2 {
+  font-size: 2rem;
+  border: 1px solid #3b0871;
+  padding: 20px;
+}

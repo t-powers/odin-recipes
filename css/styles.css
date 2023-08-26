@@ -54,6 +54,8 @@ img {
   display: flex;
   justify-content: center;
   gap: 8px;
+  padding: 10px;
+  background-color: #1985a1;
 }
 
 .button {

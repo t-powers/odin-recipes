@@ -1,6 +1,7 @@
 body {
   height: 100%;
   background-color: #c5c3c6;
+  font-family: "Times New Roman", Times, serif;
 }
 .container {
   display: flex;
@@ -25,7 +26,7 @@ h2 {
 }
 p {
   display: flex;
-  font-size: 22px;
+  font-size: 32px;
 }
 
 ol,
@@ -43,7 +44,6 @@ img {
   height: auto;
 }
 .img-container {
-  border: 1px solid rebeccapurple;
   display: flex;
   justify-content: center;
   padding: 20px 0px;
@@ -71,6 +71,7 @@ a:hover {
 }
 .homepage-h2 {
   font-size: 2rem;
-  border: 1px solid #3b0871;
   padding: 20px;
+  background-color: #1985a1;
+  color: #c5c3c6;
 }

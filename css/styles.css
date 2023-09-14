@@ -27,6 +27,7 @@ h2 {
 p {
   display: flex;
   font-size: 32px;
+  padding: 0px 20px;
 }
 
 ol,

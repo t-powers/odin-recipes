@@ -1,12 +1,10 @@
 body {
-  height: 100%;
-  background-color: #c5c3c6;
+  background: linear-gradient(#2a2f3e, #45caff);
   font-family: "Times New Roman", Times, serif;
 }
 .container {
   display: flex;
   flex-direction: column;
-
 }
 h1 {
   display: flex;
@@ -14,7 +12,6 @@ h1 {
   font-size: 38px;
   text-shadow: 1px 1px black;
   color: #c5c3c6;
-  background-color: #1985a1;
   padding: 30px;
   text-align: center;
 }
@@ -29,9 +26,6 @@ p {
   display: flex;
   font-size: 32px;
   padding: 0px 20px;
-
-
-
 }
 
 ol,
@@ -56,12 +50,11 @@ img {
   margin-bottom: 30px;
 }
 .btn-container {
-  border: 1px solid rebeccapurple;
+  border: 1px dotted rgb(113, 111, 116);
   display: flex;
   justify-content: center;
   gap: 8px;
   padding: 10px;
-  background-color: #1985a1;
 }
 
 .button {
@@ -69,7 +62,7 @@ img {
   transition: 0.4s;
 }
 .button:hover {
-  background-color: #281969;
+  background-color: #171133;
   border: #1985a1;
 }
 a:hover {

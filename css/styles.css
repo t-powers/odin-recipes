@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#2a2f3e, #45caff);
+  background: linear-gradient(#2a2f3e1f, #45cafff9);
   font-family: "Times New Roman", Times, serif;
   margin:0;
 }
@@ -8,7 +8,7 @@ h1 {
   text-align: center;
   font-size: 38px;
   text-shadow: 1px 1px black;
-  color: #c5c3c6;
+  color: #d57070;
   padding: 30px;
   text-align: center;
 }

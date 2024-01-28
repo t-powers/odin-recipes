@@ -53,12 +53,12 @@ button {
   background-color: #8ce6fc;
   transition: 0.4s;
 }
-.button:hover {
+button:hover {
   background-color: #171133;
   border: #1985a1;
 }
 a:hover {
-  color: rgb(212, 212, 212);
+  color: rgb(255, 255, 255);
 }
 .homepage-h2 {
   font-size: 2.4rem;

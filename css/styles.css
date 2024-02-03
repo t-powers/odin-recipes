@@ -57,6 +57,9 @@ img {
 }
 
 button {
+  height: 32px;
+  width: auto;
+  padding: 5px 15px;
   background-color: #8ce6fc;
   transition: 0.4s;
 }

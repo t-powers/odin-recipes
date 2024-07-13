@@ -6,10 +6,10 @@ body {
   background-repeat: no-repeat;
 }
 
-.container{
+.container {
   max-width: 950px;
+  height: auto;
   margin: 0 auto;
- 
 }
 
 h1 {
@@ -80,9 +80,8 @@ button:hover {
   color: #0e0114;
 }
 
-.welcome{
-  padding:120px;
-
+.welcome {
+  padding: 50px;
 }
 .footer {
   background-color: #1985a1;

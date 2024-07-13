@@ -14,9 +14,9 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 38px;
+  font-size: 48px;
   text-shadow: 1px 1px black;
-  color: #d57070;
+  color: #52187f;
   padding: 30px;
   text-align: center;
 }
@@ -58,17 +58,19 @@ img {
   margin-bottom: 30px;
 }
 .btn-container {
-  border: 1px dotted rgb(113, 111, 116);
-  text-align: center;
-  gap: 8px;
-  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  gap: 10px;
+
 }
 
 .button {
-  padding: 15px 35px;
+  padding: 5px 15px;
   background-color: #8ce6fc;
   transition: 0.4s;
   border-radius: 7px;
+  text-align: center;
 }
 button:hover {
   background-color: #7459ed;
